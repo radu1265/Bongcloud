@@ -1,0 +1,305 @@
+locale = LC_CTYPE=en_US.UTF-8;LC_NUMERIC=ro_RO.UTF-8;LC_TIME=ro_RO.UTF-8;LC_COLLATE=en_US.UTF-8;LC_MONETARY=ro_RO.UTF-8;LC_MESSAGES=en_US.UTF-8;LC_PAPER=ro_RO.UTF-8;LC_NAME=ro_RO.UTF-8;LC_ADDRESS=ro_RO.UTF-8;LC_TELEPHONE=ro_RO.UTF-8;LC_MEASUREMENT=ro_RO.UTF-8;LC_IDENTIFICATION=ro_RO.UTF-8
+recognized 'normal' (-1) as variant normal
+recognized 'normal' (-1) as variant normal
+recognized 'normal' (-1) as variant normal
+shuffleOpenings = 0
+shuffleOpenings = 0
+Version: xboard 4.9.1 + make ()
+Reset(1, 0) from gameMode 0
+recognized 'normal' (-1) as variant normal
+GameEnds(0, (null), 2)
+shuffleOpenings = 0
+StartChildProcess (dir=".") make run
+237 >first : xboard
+protover 2
+241 <first : make[1]: Entering directory '/home/cristian/faculty/anul2sem2/PA/botsah'
+244 <first : 
+245 <first : feature done=0 sigint=0 sigterm=0 san=0 reuse=0 usermove=1 analyze=0 ping=0 setboard=0 level=0 variants="crazyhouse" name="Bongcloud" myname="Bongcloud" done=1
+245 >first : accepted done
+245 >first : accepted sigint
+245 >first : accepted sigterm
+245 >first : accepted san
+245 >first : accepted reuse
+245 >first : accepted usermove
+245 >first : accepted analyze
+245 >first : accepted ping
+245 >first : accepted setboard
+245 >first : accepted level
+245 >first : accepted variants
+245 >first : accepted name
+245 >first : accepted myname
+245 >first : accepted done
+recognized 'crazyhouse' (-1) as variant crazyhouse
+Reset(1, 0) from gameMode 0
+recognized 'crazyhouse' (-1) as variant crazyhouse
+GameEnds(0, (null), 2)
+247 >first : quit
+shuffleOpenings = 0
+StartChildProcess (dir=".") make run
+317 >first : xboard
+protover 2
+318 >first : new
+random
+318 >first : variant crazyhouse
+318 >first : level 40 5 0
+318 >first : post
+318 >first : hard
+329 <first : make[1]: Entering directory '/home/cristian/faculty/anul2sem2/PA/botsah'
+329 <first : 
+330 <first : feature done=0 sigint=0 sigterm=0 san=0 reuse=0 usermove=1 analyze=0 ping=0 setboard=0 level=0 variants="crazyhouse" name="Bongcloud" myname="Bongcloud" done=1
+330 >first : accepted done
+330 >first : accepted sigint
+330 >first : accepted sigterm
+330 >first : accepted san
+330 >first : accepted reuse
+330 >first : accepted usermove
+330 >first : accepted analyze
+330 >first : accepted ping
+330 >first : accepted setboard
+331 >first : accepted level
+331 >first : accepted variants
+331 >first : accepted name
+331 >first : accepted myname
+331 >first : accepted done
+nps: w=-1, b=-1
+1738 >first : name cristian
+nps: w=-1, b=-1
+1739 >first : time 30000
+1739 >first : otim 30000
+book hit = (NULL)
+1739 >first : usermove 1739 >first : e2e3
+1739 <first : move g7g6
+2809 >first : time 30000
+2814 >first : otim 29893
+book hit = (NULL)
+2818 >first : usermove 2818 >first : f2f3
+2819 <first : move b7b5
+3385 >first : time 29999
+3385 >first : otim 29836
+book hit = (NULL)
+3385 >first : usermove 3385 >first : g2g3
+3386 <first : move b8c6
+4045 >first : time 29998
+4045 >first : otim 29770
+book hit = (NULL)
+4045 >first : usermove 4045 >first : h2h3
+4046 <first : move e7e6
+5180 >first : time 29998
+5180 >first : otim 29657
+book hit = (NULL)
+5180 >first : usermove 5180 >first : d2d3
+5181 <first : move g8f6
+6540 >first : time 29998
+6540 >first : otim 29521
+book hit = (NULL)
+6540 >first : usermove 6540 >first : c2c3
+6541 <first : move d7d6
+7581 >first : time 29998
+7589 >first : otim 29417
+book hit = (NULL)
+7593 >first : usermove 7593 >first : b2b3
+7606 <first : move c6b8
+9028 >first : time 29996
+9032 >first : otim 29275
+book hit = (NULL)
+9032 >first : usermove 9032 >first : a2a3
+9042 <first : move h7h5
+10897 >first : time 29994
+10897 >first : otim 29090
+book hit = (NULL)
+10897 >first : usermove 10897 >first : g3g4
+10898 <first : move c8a6
+12064 >first : time 29994
+12075 >first : otim 28973
+book hit = (NULL)
+12079 >first : usermove 12079 >first : h3h4
+12086 <first : move f8e7
+15568 >first : time 29991
+15568 >first : otim 28625
+book hit = (NULL)
+15568 >first : usermove 15568 >first : f3f4
+15569 <first : move c7c5
+27967 >first : time 29991
+27967 >first : otim 27385
+book hit = (NULL)
+27967 >first : usermove 27967 >first : e3e4
+27968 <first : move f6g8
+28950 >first : time 29991
+28950 >first : otim 27287
+book hit = (NULL)
+28950 >first : usermove 28950 >first : d3d4
+28951 <first : move e6e5
+29654 >first : time 29991
+29659 >first : otim 27216
+book hit = (NULL)
+29666 >first : usermove 29669 >first : c3c4
+29677 <first : move b5b4
+31216 >first : time 29988
+31220 >first : otim 27063
+book hit = (NULL)
+31220 >first : usermove 31220 >first : a3a4
+31222 <first : move g6g5
+32589 >first : time 29987
+32593 >first : otim 26927
+book hit = (NULL)
+32593 >first : usermove 32593 >first : e1e2
+32598 <first : move e5d4
+33311 >first : time 29987
+33315 >first : otim 26855
+book hit = (NULL)
+33315 >first : usermove 33315 >first : e2f2
+33317 <first : move a6c8
+33880 >first : time 29986
+33880 >first : otim 26799
+book hit = (NULL)
+33880 >first : usermove 33880 >first : f2f3
+33882 <first : move a7a5
+34469 >first : time 29986
+34469 >first : otim 26740
+book hit = (NULL)
+34469 >first : usermove 34469 >first : f3f2
+34473 <first : move e7f8
+35031 >first : time 29985
+35031 >first : otim 26685
+book hit = (NULL)
+35031 >first : usermove 35031 >first : f2g2
+35032 <first : move g5f4
+35649 >first : time 29985
+35661 >first : otim 26624
+book hit = (NULL)
+35664 >first : usermove 35664 >first : g2f2
+35670 <first : move f7f5
+36369 >first : time 29982
+36373 >first : otim 26554
+book hit = (NULL)
+36373 >first : usermove 36373 >first : f2f3
+36374 <first : move d8c7
+38073 >first : time 29981
+38074 >first : otim 26384
+book hit = (NULL)
+38074 >first : usermove 38074 >first : f1e2
+38164 <first : move c7f7
+38880 >first : time 29972
+38881 >first : otim 26313
+book hit = (NULL)
+38881 >first : usermove 38881 >first : e2d3
+38994 <first : move b8c6
+40063 >first : time 29961
+40063 >first : otim 26206
+book hit = (NULL)
+40063 >first : usermove 40063 >first : g1h3
+40204 <first : move g8e7
+41085 >first : time 29947
+41086 >first : otim 26118
+book hit = (NULL)
+41086 >first : usermove 41086 >first : h1h2
+41177 <first : move c6b8
+42191 >first : time 29938
+42191 >first : otim 26016
+book hit = (NULL)
+42191 >first : usermove 42191 >first : d1d2
+42282 <first : move f7d5
+42965 >first : time 29929
+42965 >first : otim 25948
+book hit = (NULL)
+42965 >first : usermove 42965 >first : c1b2
+43054 <first : move d5c4
+43918 >first : time 29920
+43918 >first : otim 25862
+book hit = (NULL)
+43918 >first : usermove 43918 >first : a1a2
+44007 <first : move b8c6
+46849 >first : time 29911
+46849 >first : otim 25577
+book hit = (NULL)
+46849 >first : usermove 46849 >first : b2c1
+46932 <first : move c4e6
+48301 >first : time 29902
+48301 >first : otim 25440
+book hit = (NULL)
+48302 >first : usermove 48302 >first : d2f2
+48391 <first : move e6e5
+49858 >first : time 29893
+49858 >first : otim 25294
+book hit = (NULL)
+49858 >first : usermove 49858 >first : f2e1
+49939 <first : move c6a7
+50755 >first : time 29885
+50755 >first : otim 25212
+book hit = (NULL)
+50755 >first : usermove 50755 >first : e1d2
+50854 <first : move d6d5
+51482 >first : time 29875
+51482 >first : otim 25149
+book hit = (NULL)
+51482 >first : usermove 51482 >first : d2e1
+51563 <first : move d5e4
+53881 >first : time 29867
+53881 >first : otim 24918
+book hit = (NULL)
+53881 >first : usermove 53881 >first : f3f2
+53966 <first : move e4e3
+56474 >first : time 29859
+56474 >first : otim 24667
+book hit = (NULL)
+56474 >first : usermove 56474 >first : f2f1
+56576 <first : move e5d5
+57346 >first : time 29848
+57346 >first : otim 24590
+book hit = (NULL)
+57346 >first : usermove 57346 >first : f1g1
+57434 <first : move d5d8
+58325 >first : time 29840
+58325 >first : otim 24501
+book hit = (NULL)
+58325 >first : usermove 58325 >first : g1h1
+58408 <first : move e3e2
+59045 >first : time 29831
+59045 >first : otim 24437
+book hit = (NULL)
+59045 >first : usermove 59045 >first : h1g1
+59124 <first : move a7c6
+60180 >first : time 29822
+60180 >first : otim 54333
+book hit = (NULL)
+60180 >first : usermove 60180 >first : e1e2
+60274 <first : move c8b7
+60856 >first : time 59813
+60857 >first : otim 54274
+book hit = (NULL)
+60857 >first : usermove 60857 >first : e2d2
+60942 <first : move e7g6
+62177 >first : time 59804
+62177 >first : otim 54151
+book hit = (NULL)
+62177 >first : usermove 62177 >first : d2c2
+62274 <first : move d8d7
+62914 >first : time 59794
+62914 >first : otim 54087
+book hit = (NULL)
+62914 >first : usermove 62914 >first : c2b2
+63024 <first : move e8c8
+79138 >first : time 59783
+79138 >first : otim 52476
+book hit = (NULL)
+79138 >first : usermove 79138 >first : d3f5
+79139 <first : move c5c4
+80141 >first : time 59783
+80141 >first : otim 52376
+book hit = (NULL)
+80141 >first : usermove 80141 >first : f5d7
+80142 <first : move c8d7
+Drop move 19, curr=90, x=11,y=4, p=4
+LegalDrop: 4 @ 8,4)
+LegalDrop: 4 @ 8,4)
+82361 >first : time 59783
+82374 >first : otim 52154
+book hit = (NULL)
+82374 >first : usermove 82374 >first : Q@g5
+82383 <first : terminate called after throwing an instance of 'std::bad_optional_access'
+82396 <first :   what():  bad optional access
+82786 <first : make[1]: *** [Makefile:25: run] Aborted (core dumped)
+82801 <first : make[1]: Leaving directory '/home/cristian/faculty/anul2sem2/PA/botsah'
+GameEnds(29, xboard exit, 2)
+161129 >first : result * {xboard exit}
+161129 >first : quit
